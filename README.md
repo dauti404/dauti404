@@ -11,8 +11,8 @@
 <br>
 <div>
   <a href="https://github.com/dauti404">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dauti404&show_icons=true&theme=radical">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dauti404&theme=radical&layout=donut">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dauti404&show_icons=true&theme=outrun">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dauti404&theme=outrun&layout=donut">
 </div>
 <br>
 <div>
