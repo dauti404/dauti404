@@ -22,7 +22,7 @@
   <img align="center" alt="c#" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img align="center" alt="java" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="MySQL" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-</div>
+  <img align="center" alt="Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg"/>
 <div>
   <img height="150" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFneWZtNWk5cWliMHdpd3EyZHM5enBoaG8wY2llbWF4dTlqYTJ5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Ztrf5psB3N89NIY/giphy.gif">
 </div>
