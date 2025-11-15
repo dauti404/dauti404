@@ -29,7 +29,6 @@
   <img height="150" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFneWZtNWk5cWliMHdpd3EyZHM5enBoaG8wY2llbWF4dTlqYTJ5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Ztrf5psB3N89NIY/giphy.gif">
 </div>
 <br>
-  # Contatos
 <div>
   <a href="https://www.instagram.com/dauti_0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/augusto-progammer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
