@@ -1,6 +1,14 @@
 ## Hello, sou o Augusto, também conhecido como dauti.
 <p style="text-align: justify">
-  Acadêmico de Ciência da Computação na Unifap e com foco em estudar mais sobre Banco de Dados, Genética e até jogos. Como linguagens de programação favoritas tem o C, C++, C#, Java e até Python, Ruby e Lua. Tenho o básico em inglẽs, porém, venho me aperfeiçoando mais conforme o tempo passa. Sou um entusiasta do Linux/GNU/Unix e uso o Ubuntu como S.O, além de usar e querer aprender mais sobre o terminal, ferramenta legal de se usar. 
+  Acadêmico de Ciência da Computação - Unifap, apaixonado pelo sistema operacional do pinguim TUX, mascote do kernel do Linux, usando o Ubuntu como S.O. padrão.
+ 
+  No momento, estudando e pesquisando áreas de interesse como Banco de Dados e um pouco sobre jogos.
+
+## Linguagens de Programação
+  - C | C++
+  - Java
+  - Python
+  - Lua
  
   ʘ‿ʘ
 
