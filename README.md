@@ -2,7 +2,7 @@
 <p style="text-align: justify">
   Acadêmico de Ciência da Computação - Unifap, apaixonado pelo sistema operacional do pinguim TUX, mascote do kernel do Linux, usando o Ubuntu como S.O. padrão.
  
-  No momento, estudando e pesquisando áreas de interesse como Banco de Dados e um pouco sobre jogos.
+  No momento, estudando e pesquisando áreas de interesse como Banco de Dados e um pouco sobre jogos. Além de outras áreas de T.I é claro.
 
 ## Linguagens de Programação
   - C | C++
