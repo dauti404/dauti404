@@ -2,7 +2,7 @@
 <p style="text-align: justify">
   Acadêmico de Ciência da Computação - Unifap, apaixonado pelo sistema operacional do pinguim TUX, mascote do Linux. Só usuário de Ubuntu 24.04 LTS, mas gosto de testar novas distros para aprender novas habilidades do mundo linux.
  
-  Nas áreas de interesse, ainda estou pesquisando sobre, mas sei que tenho interesse em Banco de Dados, áreas mais criativas do UI/UX design, jogos e projetos de sistemas para resolução de problemas dos usuários comuns da internet.
+  Nas áreas de interesse, ainda estou pesquisando sobre, mas sei que tenho interesse em <strong>Banco de Dados, áreas mais criativas do UI/UX design, jogos e projetos de sistemas para resolução de problemas dos usuários comuns da internet.</strong>
 
   Estou sempre tentando me manter atualizado na área e fazendo cursos online e botando tudo em prática, por isso, estou tentando montar me portfolio do github o tempo todo.
 
@@ -13,7 +13,7 @@
   - Lua
 
 ## Alguns badges
-  Acaba que é mais para decoração, mas procuro sempre colocar sobre tecnologias que sei usar ou que uso para desenvolver meus projetos.
+  Acaba que é mais para decoração, mas procuro sempre colocar sobre <strong>tecnologias que sei usar ou que uso para desenvolver meus projetos.</strong>
 </p>
 <br>
 <div>
@@ -41,11 +41,11 @@
 </div>
 
   ## Tools 🛠
-  As ferramentas de trabalho do meu dia a dia, como IDEs que uso sempre, softwares para versionamento de códigos, apps de terminais e outros que tenho curiosidade de usar para melhorar minha produtividade.
+  As ferramentas de trabalho do meu dia a dia como <strong>IDEs que uso sempre, softwares para versionamento de códigos, apps de terminais e outros que tenho curiosidade de usar</strong> para melhorar minha produtividade.
 
 ![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GNOME Terminal](https://img.shields.io/badge/gnometerminal-%23ffffff.svg?style=for-the-badge&logo=gnometerminal&logoColor=%23241F31) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
   ## Pacote Office  
-  Uso como padrão os softwares do Google Workspace e LibreOffice como alternativa ao Pacote Office da Microsoft - também por questão de costume, mas sem aversão a adaptabilidade a outros softwares.
+  Uso como padrão os softwares do <strong>Google Workspace e LibreOffice</strong> como alternativa ao Pacote Office da Microsoft - também por questão de costume, mas sem aversão a adaptabilidade a outros softwares.
 
   ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white)
