@@ -44,3 +44,8 @@
   As ferramentas de trabalho do meu dia a dia, como IDEs que uso sempre, softwares para versionamento de códigos, apps de terminais e outros que tenho curiosidade de usar para melhorar minha produtividade.
 
 ![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GNOME Terminal](https://img.shields.io/badge/gnometerminal-%23ffffff.svg?style=for-the-badge&logo=gnometerminal&logoColor=%23241F31) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+  ## Pacote Office  
+  Uso como padrão os softwares do Google Workspace e LibreOffice como alternativa ao Pacote Office da Microsoft - também por questão de costume, mas sem aversão a adaptabilidade a outros softwares.
+
+  ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white)
