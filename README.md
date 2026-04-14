@@ -1,14 +1,13 @@
 # Hello, sou o Augusto, também conhecido como dauti.
 <p style="text-align: justify">
-  Acadêmico de Ciência da Computação - Unifap, apaixonado pelo sistema operacional do pinguim TUX, mascote do Linux. Só usuário de Ubuntu 24.04 LTS, mas gosto de testar novas distros para aprender novas habilidades do mundo linux.
- 
-  Nas áreas de interesse, ainda estou pesquisando sobre, mas sei que tenho interesse em <strong>Banco de Dados, áreas mais criativas do UI/UX design, jogos e projetos de sistemas para resolução de problemas dos usuários comuns da internet.</strong>
-
-  Estou sempre tentando me manter atualizado na área e fazendo cursos online e botando tudo em prática, por isso, estou tentando montar me portfolio do github o tempo todo.
+  Acadêmico do curso de Ciência da Computação - Unifap, apaixonado pelo sistema operacional do pinguim e sempre atualizado sobre as novidades do mundo Linux.
+  
+  Estudando muito sobre <strong>Sistemas Operacionais, Rede de Computadores, áreas mais criativas do UI/UX design, jogos e projetos de sistemas</strong> para resolução de problemas dos usuários comuns da internet.
 
 ## Linguagens de Programação
   - C | C++
   - Java
+  - Rust
   - Python
   - Lua
 
